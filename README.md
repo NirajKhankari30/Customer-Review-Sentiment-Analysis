@@ -304,7 +304,7 @@ Recommended GitHub repository structure:
 ```text
 Customer-Review-Sentiment-Analysis/
 │
-├── Minor_Project.ipynb
+├── # Customer Review Sentiment Analysis.ipynb
 │
 ├── datasets/
 │   ├── IMDB-Dataset.csv
